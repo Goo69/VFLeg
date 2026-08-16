@@ -34,8 +34,8 @@ engine_productType="All"
 # Pour générer le jeton (ou depuis l'interface web du compte utilisateur): https://erp.ticoop.fr/api/index.php/login?login=ser&password=TODO[&reset=1]
 # https://erp.ticoop.fr/api/index.php/explorer
 # accès en lecture uniquement
-erp_apiKeyProduction = 'Qzo68bY20tw93637cIJJsBzYs2oUnYOH'
-erp_baseUrlProduction = 'https://erp.ticoop.fr'
+erp_apiKeyProduction = ''
+erp_baseUrlProduction = ''
 
 #Chaine de recherche des produits à code dynamique
 #mode SQL LIKE
