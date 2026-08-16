@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers temporaires et caches Python
+__pycache__/
+*.pyc
+
+# Caches de l'application CoopTi
+data/cache/*
+!data/cache/.gitkeep
+*.dat
